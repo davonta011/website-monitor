@@ -1,0 +1,1 @@
+Monitors if website is up and running by pinging server and expecting 200 code.
